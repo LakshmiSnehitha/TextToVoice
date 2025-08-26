@@ -1,5 +1,5 @@
 # Create README.md file
-echo "# Text To Voice 🎙️
+echo "# Text To Voice🎙️
 
 This project converts text into speech using **gTTS (Google Text-to-Speech)**.  
 It supports multiple languages and automatically detects the language typed by the user.
